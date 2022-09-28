@@ -28,22 +28,22 @@
 
 	
         <repositories>
-  	   <repository>
-             <id>springfeed</id>
-             <url>https://pkgs.dev.azure.com/bijjamvinay9666/artifact/_packaging/springfeed/maven/v1</url>
-             <releases>
-             <enabled>true</enabled>
-             </releases>
-             <snapshots>
-             <enabled>true</enabled>
-             </snapshots>
-           </repository>
+  	<repository>
+          <id>springfeed</id>
+          <url>https://pkgs.dev.azure.com/bijjamvinay8143/artigact1/_packaging/springfeed/maven/v1</url>
+          <releases>
+          <enabled>true</enabled>
+          </releases>
+          <snapshots>
+          <enabled>true</enabled>
+          </snapshots>
+        </repository>   
         </repositories>
 	
 	<distributionManagement>
 	   <repository>
              <id>springfeed</id>
-             <url>https://pkgs.dev.azure.com/bijjamvinay9666/artifact/_packaging/springfeed/maven/v1</url>
+             <url>https://pkgs.dev.azure.com/bijjamvinay8143/artigact1/_packaging/springfeed/maven/v1</url>
              <releases>
              <enabled>true</enabled>
              </releases>
